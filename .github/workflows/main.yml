@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '13 * * * *'  # 每个整点运行一次
+    - cron: '18 * * * *'  # 每个整点运行一次
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3  # 更新到 v3
+      uses: actions/checkout@v4  # 更新到 v4
 
     - name: Set up Python
       uses: actions/setup-python@v4  # 更新到 v4
@@ -34,7 +34,7 @@ jobs:
     if: github.event_name == 'schedule' || github.event_name == 'push'
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3  # 更新到 v3
+      uses: actions/checkout@v4  # 更新到 v4
 
     - name: Set up Python
       uses: actions/setup-python@v4  # 更新到 v4
