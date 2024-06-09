@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '06 * * * *'  # 每个整点运行一次
+    - cron: '13 * * * *'  # 每个整点运行一次
 
 jobs:
   build:
@@ -48,7 +48,7 @@ jobs:
 
     - name: Run script
       run: |
-        python script.py > qgdf.txt
+        python script.py
 
     - name: Commit and push changes
       run: |
