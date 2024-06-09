@@ -1,6 +1,6 @@
 import requests
 
-url = ("https://raw.gitcode.com/ouu/scc/raw/main/kankan.txt")
+url = "https://raw.gitcode.com/ouu/scc/raw/main/kankan.txt"
 res = requests.get(url)
 content = res.text
 
@@ -63,5 +63,6 @@ for line in lines[shandong_index:]:
         line = line.replace('🍻', '').replace('频道', '')
     output.append(line)
 
-# 打印结果
-print('\n'.join(output))
+# 将结果写入 qgdf.txt 文件
+with open('qgdf.txt', 'w', encoding='utf-8') as f:
+    f.write('\n'.join(output))
