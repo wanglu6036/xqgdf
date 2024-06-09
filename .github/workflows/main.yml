@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 * * * *'  # 每个整点运行一次
+    - cron: '35 * * * *'  # 每个整点运行一次
 
 jobs:
   build:
@@ -54,8 +54,8 @@ jobs:
       env:
         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git config --global user.name 'wanglulu'
+        git config --global user.email '376671120@qq.com'
         git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
         git add qgdf.txt
         git commit -m 'Update qgdf.txt'
