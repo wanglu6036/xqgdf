@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *'  # 每个整点运行一次
+    - cron: '20 * * * *'  # 每个整点运行一次
 
 jobs:
   build:
