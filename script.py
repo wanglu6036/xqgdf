@@ -1,4 +1,10 @@
 import requests
+import time
+from datetime import datetime, timedelta, timezone
+
+# 设置东八区时区
+tz = timezone(timedelta(hours=8))
+current_time = datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S')
 
 url = "https://raw.gitcode.com/ouu/scc/raw/main/kankan.txt"
 res = requests.get(url)
@@ -49,6 +55,10 @@ for line in lines[:shandong_index]:
 
 # 输出结果
 output = []
+
+# 添加更新时间和时间戳
+output.append("更新时间,#genre#")
+output.append(f"{current_time},https://taoiptv.com/time.mp4")
 
 # 处理🍻山东频道,#genre#之前的内容
 for ip_port, channels in grouped_channels.items():
