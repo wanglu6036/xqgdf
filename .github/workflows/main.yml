@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '46 * * * *'  # 每个整点运行一次
+    - cron: '03 * * * *'  # 每个整点运行一次
 
 jobs:
   build:
@@ -50,6 +50,10 @@ jobs:
       run: |
         python script.py
 
+    - name: Modify file
+      run: |
+        echo "another test again" >> qgdf.txt
+
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -58,5 +62,5 @@ jobs:
         git config --global user.email '376671120@qq.com'
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git add qgdf.txt
-        git commit -m 'Update qgdf.txt'
+        git diff-index --quiet HEAD || git commit -m 'Update qgdf.txt'
         git push origin main
