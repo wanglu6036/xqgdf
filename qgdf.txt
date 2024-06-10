@@ -3145,6 +3145,53 @@ wugltest,http://zzy789.xyz/douyu1.php?id=1844872
 
 
 YY直播,#genre#
+西游记后传,https://live.metshop.top/yy/1353392400
+神雕侠侣,https://live.metshop.top/yy/1351762426
+射雕英雄传,https://live.metshop.top/yy/40959929
+倚天屠龙记,https://live.metshop.top/yy/1449856066
+天龙八部,https://live.metshop.top/yy/1351814644
+笑傲江湖,https://live.metshop.top/yy/1354936128
+鹿鼎记,https://live.metshop.top/yy/28265277
+寻秦记,https://live.metshop.top/yy/1382749900
+封神榜,https://live.metshop.top/yy/1353426319
+新白娘子传奇,https://live.metshop.top/yy/1354490667
+新白娘子传奇-修复版,https://live.metshop.top/yy/1354930969
+钟馗传说,https://live.metshop.top/yy/1382736839
+红楼梦,https://live.metshop.top/yy/1382745084
+三国演义,https://live.metshop.top/yy/1354936241
+少年包青天,https://live.metshop.top/yy/38498680
+宰相刘罗锅,https://live.metshop.top/yy/1353892468
+雍正王朝,https://live.metshop.top/yy/23206872
+神探狄仁杰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386
+陈情令,https://live.metshop.top/yy/1382745121
+知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
+仙剑奇侠传,https://live.metshop.top/yy/1382749903
+金装四大才子,https://live.metshop.top/yy/1354926600
+公主嫁到,https://live.metshop.top/yy/1382736915
+耀舞长安,https://live.metshop.top/yy/1382741640
+上海滩,https://live.metshop.top/yy/1382745184
+大时代,https://live.metshop.top/yy/1354930891
+法证先锋,https://live.metshop.top/yy/1354930965
+陀枪师姐,https://live.metshop.top/yy/1382688521
+飞虎之潜行极战,https://live.metshop.top/yy/1354932420
+放羊的星星,https://live.metshop.top/yy/1355260662
+天道,https://live.metshop.top/yy/1382735574
+安家,https://live.metshop.top/yy/12086226
+欢乐颂,https://live.metshop.top/yy/1382735624
+平凡岁月,https://live.metshop.top/yy/1382745117
+苦乐村官,https://live.metshop.top/yy/1382736864
+金星脱口秀,https://live.metshop.top/yy/1354932407
+航拍中国第1季,https://live.metshop.top/yy/1354936136
+仙剑奇侠传,http://43.138.170.29:35455/yy/1382749903
+宝莲灯前传,http://43.138.170.29:35455/yy/1354931631
+魔幻手机,http://43.138.170.29:35455/yy/1382735544
+神医喜来乐,http://43.138.170.29:35455/yy/1382714119
+狂飙高清,http://43.138.170.29:35455/yy/1382764587
+隋唐英雄传,http://43.138.170.29:35455/yy/1352475619
+天龙八部超清,http://43.138.170.29:35455/yy/1382736855
+宫心计超清,http://43.138.170.29:35455/yy/1354933540
+济公游记,http://43.138.170.29:35455/yy/1355265814
+新白娘子传奇高清,http://43.138.170.29:35455/yy/1354930969
 绝版电影 港片女鬼,http://159.75.85.63:35455/yy/1455988450
 港片 喜剧 动作,http://159.75.85.63:35455/yy/1355480591
 幸福满院,http://159.75.85.63:35455/yy/1382737886
@@ -5444,97 +5491,500 @@ TVB-plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 星河,http://8.137.59.151:99/fhtv/fenghuang.php?id=14
 天映频道,http://8.137.59.151:99/fhtv/fenghuang.php?id=15
 CCM,http://8.137.59.151:99/fhtv/fenghuang.php?id=16
+翡翠台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=feicui
+无线新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-news
+TVB plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-plus
+TVB plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=j2
+黄金翡翠台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=golden-jade
+黄金华剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=golden-chinese-drama
+千禧经典台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-classic
+粤语片台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-yueyu
+星河台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-xinghe
+亚洲剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-asia-drama
+娱乐新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ylxw
+明珠台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pearl
+华语剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-drama
+凤凰资讯,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=phtv-info
+凤凰中文,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=phtv-cn
+凤凰香港,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=phtv-hk
+HOY 资讯台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hoy-info
+HOY TV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hoytv
+HOY国际财经,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hoy-ibc
+ViuTV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=viutv
+ViuTV6,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=viutv6
+天映频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=celestial
+天映经典,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cccm
+Thrill,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=thrill
+星空卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=star-xing-kong
+香港卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hks
+澳亚卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mastv
+澳门卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mstv
+澳门莲花卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lotustv
+澳门资讯,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tdm-information
+澳视澳门,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tdm
+HKC 18台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hkc18
+港台电视 31,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=rthk31
+港台电视 32,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=rthk32
+
+Now 财经台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-finance
+Now 爆谷台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=baogu-movies
+Now 星影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-baogu-superstars
+Now 新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-news
+Now 直播台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-direct
+Now报价台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-data
+Now jelli紫金国际台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-jelli
+Now华剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-chinese-drama
+HBO Now115,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Now-HBO
+Now HBO Hits,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-hbo-hits
+Now HBO Family,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-hbof-amily
+Now HBO Signature,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-hbo-signature
+MovieMovie,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=moviemovie
+NowViu剧集台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-viu-drama
+Now Sports 641,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports641
+Now NBA,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-nba
+Now Sports精选,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-prime
+Now Sports 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-1
+Now Sports 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-2
+Now Sports 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-3
+Now Sports 4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-4
+Now Sports 5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-5
+Now Sports 6,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-6
+Now Sports 7,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-7
+Now Sports Plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-plus
+Now Sports 英超1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league1
+Now Sports 英超2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league2
+Now Sports 英超3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league3
+Now Sports 英超4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league4
+Now Sports 英超5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league5
+Now Sports 英超6,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league6
+Now beIN SPORTS 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports1
+Now beIN SPORTS 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports2
+Now beIN SPORTS 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports3
+Now 668,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-668
+Now Golf 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-golf2
+Now Golf 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-golf3
+
 
 湾湾_7788,#genre#
+民視台灣台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
+民視第一台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
+TVBS HD,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv073
+TVBS新闻台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv072
 中天新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv009
-中天亚洲,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv109
-民视台湾,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
-民视新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv13
-民视HD,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv002
-民视第一,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
-民视综艺,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv004
-民视旅游,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv07
-三立综合,http://8.137.59.151:99/fhtv/fenghuang.php?id=34
-三立台湾,http://8.137.59.151:99/fhtv/fenghuang.php?id=35
-三立综合,http://8.137.59.151:99/fhtv/fenghuang.php?id=36
-三立都会,http://23.94.14.225:8848/live.m3u8?c=3
-八大综合,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv039
-八大第一,http://8.137.59.151:99/fhtv/fenghuang.php?id=121
-八大戏剧,http://8.137.59.151:99/fhtv/fenghuang.php?id=122
-八大精彩,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv034
-TVBs新闻台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv072
-TVBs欢乐台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv068
-TVBs精采台http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv067
-东森综合,http://8.137.59.151:99/fhtv/fenghuang.php?id=79
-东森新闻,http://23.94.14.225:8848/live.m3u8?c=5
-东森新闻,http://8.137.59.151:99/fhtv/fenghuang.php?id=62
-东森财经,http://23.94.14.225:8848/live.m3u8?c=6
-东森电影,http://8.137.59.151:99/fhtv/fenghuang.php?id=43
-东森洋片,http://8.137.59.151:99/fhtv/fenghuang.php?id=44
-华视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv041
-台视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv066
-中视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv040
-华视新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv052
-中视新闻,http://23.94.14.225:8848/live.m3u8?c=8
-中视新闻,http://8.137.59.151:99/fhtv/fenghuang.php?id=60
-中视经典,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv080
-中视菁采,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv064
+中天亚洲台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv109
 台视新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv051
-台视财经http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv056
-环宇新闻,hhttp://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn14
+华视新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv052
+台视财经,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv056
+中视新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv074
+非凡新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv010
 镜新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv075
-凤凰卫视,http://23.94.14.225:8848/live.m3u8?c=12
-公视新闻,http://23.94.14.225:8848/live.m3u8?c=13
+东森新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv152
+东森财经新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv153
+半岛新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv10
+民视新闻台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv13
+民视台湾台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
+寰宇新闻台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn14
+寰宇新闻台湾台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn15
+台视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv066
+民视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv002
+民视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv155
+中视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv040
+华视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv041
+民视台湾台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv156
+影迷數位電影台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv011
+AMC电影台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv017
+CATCHPLAY电影台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv076
+靖天电影台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv061
+龙华电影,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn03
+采昌影剧,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv049
+民视影剧,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv09
+龙华经典,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn21
+中视经典,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv080
+台湾戏剧台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn22
+靖洋戏剧台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv045
+靖天戏剧台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv058
 公视戏剧,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv042
-中天亚洲,http://8.137.59.151:99/fhtv/fenghuang.php?id=39
-中天亚洲,http://194.87.101.118/live.m3u8?c=3
-中天娱乐,http://194.87.101.118/live.m3u8?c=41
-龙华电影,http://8.137.59.151:99/fhtv/fenghuang.php?id=48
-龙华洋片,http://8.137.59.151:99/fhtv/fenghuang.php?id=49
-龙华戏剧,http://154.12.36.175:1333/fhsmt.php?key=feng&id=lunghuaxiju_twn
-美亚电影,http://8.137.59.151:99/fhtv/fenghuang.php?id=52
-爱放动漫,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv15
-猪哥亮厅,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv006
-HBO,http://8.137.59.151:99/fhtv/fenghuang.php?id=53
-HBO2,http://8.137.59.151:99/fhtv/fenghuang.php?id=54
-HBO3,http://8.137.59.151:99/fhtv/fenghuang.php?id=55
-HakkaTv,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv043
-公视戏剧,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv043
-非凡新闻,http://8.137.59.151:99/fhtv/fenghuang.php?id=64
-非凡新闻，http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv010
-年代新闻,http://8.137.59.151:99/fhtv/fenghuang.php?id=65
-非凡商业,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv048
-EYETV,http://8.137.59.151:99/fhtv/fenghuang.php?id=67
-港台综艺,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv039
-靖天卡通,http://8.137.59.151:99/fhtv/fenghuang.php?id=70
-靖天欢乐http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv054
+龙华戏剧,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn18
+智林体育台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv101
+时尚运动X,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv014
+靖天育乐台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv062
+博斯魅力,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn04
+博斯高球1,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn05
+博斯高球2,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn06
+博斯运动1,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn07
+博斯运动2,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn08
+博斯网球,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn09
+博斯无限,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn10
+博斯无限2,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn13
+TRACE SPORTS STARS,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv077
+視納華仁紀實頻道,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv013
+中视菁采,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv064
+八大精彩台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv034
+八大综艺台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv039
+TVBS精采台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv067
+TVBS欢乐台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv068
+靖天欢乐台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv054
+靖天综合台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv046
+靖天资讯台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv065
+靖天卡通台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv044
+靖天日本台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv047
+靖洋卡通台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv057
+靖天国际台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv063
 靖天映画,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv055
-靖天卡通,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv044
-靖天综合,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv046
-靖天戏剧,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv058
-靖天电影,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv061
-靖天音乐,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv062
-靖天资讯,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv065
-靖天日本,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv047
-靖洋戏剧,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv045
-靖洋卡通,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv057
-美食星球,http://8.137.59.151:99/fhtv/fenghuang.php?id=72
-时尚运动,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv014
-亚洲旅游台,http://8.137.59.151:99/fhtv/fenghuang.php?id=73
-AMC电影,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv017
-Davinci,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv018
-爱尔达综合,http://8.137.59.151:99/fhtv/fenghuang.php?id=38
 爱尔达娱乐,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv070
-爱尔达体育2,http://8.137.59.151:99/fhtv/fenghuang.php?id=92
-爱尔达体育3,http://8.137.59.151:99/fhtv/fenghuang.php?id=93
-爱尔达体育4,http://8.137.59.151:99/fhtv/fenghuang.php?id=75
-纬来日本,http://8.137.59.151:99/fhtv/fenghuang.php?id=76
 龙华卡通,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn01
 龙华日韩,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn11
 龙华偶像,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn12
-纬来体育,http://8.137.59.151:99/fhtv/fenghuang.php?id=77
-博斯无线,http://8.137.59.151:99/fhtv/fenghuang.php?id=78
+民视综艺,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv004
+民视第一台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
+民视旅游,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv07
+亚洲旅游台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn17
+客家电视台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv043
+爱放动漫,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv15
+古典音乐台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv059
+猪哥亮歌厅秀,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv006
+Smart知识台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn19
+达文西频道,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv018
+阿里郎,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv079
+生活英语台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn20
+国际财经,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv104
+美国之音,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv03
+好消息,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv16
+好消息2台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv17
+非凡商业,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv048
 国会频道1,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv084
 国会频道2,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv085
-智林体育,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv101
-亚洲旅游,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn17another test again
+TRACE URBAN,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv082
+MEZZO LIVE,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv083
+GLOBETROTTER,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv016
+GinxTV,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv053
+日本_7788,#genre#
+ABC (544p),http://211.37.26.102:9981/stream/channelid/57731658?ticket=48F421FE0A159FAC968F5A6D6EECCB1B05FFF637&profile=pass
+BS TBS (544p),http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
+BS TV Tokyo (544p),http://211.37.26.102:9981/stream/channelid/2138566532?ticket=E2487372539D4DDC95B8A16A1BA02F4ECA86D76D&profile=pass
+CGNTV Japan (1080p),http://211.37.26.102:9981/stream/channelid/1048789599?ticket=049206AF98AD5BBCEF3CC00BF512EE108C0F0F29&profile=pass
+Disney Junior (544p),http://211.37.26.102:9981/stream/channelid/1094251361?ticket=1F03B93E68C5B349D9B7B1AF59E4483D36612B53&profile=pass
+Fuji TV NEXT (544p),http://211.37.26.102:9981/stream/channelid/2131033872?ticket=DB1AF678B335DD279A5DA9D34BA8186664F7A9A0&profile=pass
+Golf Network (720p),http://211.37.26.102:9981/stream/channelid/393018412?ticket=FFAD020598470442D953BF92BDD97BF568806BD7&profile=pass
+NHK G (Tokyo) (720p),http://211.37.26.102:9981/stream/channelid/1651991013?ticket=7574206A6631C2D3D46FCC21979266A4FD173BBE&profile=pass
+Star 1 (544p),http://211.37.26.102:9981/stream/channelid/1351353857?ticket=66475F0A108152BCA5800B5FC3FB62A68BCA13F2&profile=pass
+Tabi Channel (544p),http://211.37.26.102:9981/stream/channelid/941519802?ticket=EE27088DBB8E23BA9903F67D367C056EC9DEB9BA&profile=pass
+TBS (720p),http://211.37.26.102:9981/stream/channelid/1210262947?ticket=52E496F2B6F70B62B86D80EC4431074B9698955C&profile=pass
+TV Asahi (720p),http://211.37.26.102:9981/stream/channelid/1778789755?ticket=954EF37B02F14AE862535DD2712791EE0263BD03&profile=pass
+TV Tokyo (720p),http://211.37.26.102:9981/stream/channelid/249340799?ticket=46A35DFF100F6F4C3B7A9E41325C84B969B77CCE&profile=pass
+BabyFirst,http://211.37.26.102:9981/stream/channelid/513533713?ticket=423F4F6B3433967D458CB6928D0EDD522174A8A8&profile=pass
+
+NHK G,https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
+NHK E,https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
+NTV,https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
+TBS,https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+Fuji TV,https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
+TV Asahi,https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
+TV Tokyo,https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
+TOKYO MX1,https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
+
+NHKG-540,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+NHKE-540,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+NTV-540,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+TBS-540,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+Fuji-540,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+TVAsahi-540,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+TVTokyo-540,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+TOKYOMX1-540,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+NHK G Osaka,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+MBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+ABC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+Kansai TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+Yomiuri TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+TV Osaka,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+SUN TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
+NHK BS,https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
+BS11,https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
+Animax,https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
+
+NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+NHK BSP 4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+BS NTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+BS Asahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+BS TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS TV Tokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+BS Fuji HD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+WOWOW Prime,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+WOWOW Live,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+WOWOW Cinema,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+Star Channel 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+Star Channel 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+Star Channel 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+BS Animax,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+J SPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J SPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J SPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J SPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+Green Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+BS Japan Movie Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+Fishing Vision,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+
+AT-X,https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+AT-X (neetball),https://neetball.net/live/neet3.m3u8
+MTV,https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
+
+Jidaigeki Senmon,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+Toei Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+Eisei Gekijo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+Family Gekijyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+Movie Plus,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+Home Drama Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+Tabi Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+Fuji TV Next,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+Sky A,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+GAORA SPORTS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+Golf Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+Nittele G+,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+Mondo TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+Channel Ginga,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+Kayo Pops,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+MTV (2),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+LaLa TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+Takarazuka Sky Stage,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+Kids Staton TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+Cartoon Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+Disney Junior,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+Discovery Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+CNNj,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+NHK G (Not Stable),http://pipe.ra1n.lol/joex/index.m3u8
+tss (Not Stable),http://pipe.ra1n.lol/tss/index.m3u8
+tvk (Not Stable),http://pipe.ra1n.lol/tvk/index.m3u8
+BS11 HD (Not Stable),http://pipe.ra1n.lol/bs11/index.m3u8
+AT-X HD (Not Stable),http://pipe.ra1n.lol/at-x/index.m3u8
+
+日本 Tokyo MX1,https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+日本 Tokyo MX2,https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+日本 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+日本 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本 声优广播,https://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+日本QVC Japan,https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本购物2,https://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本购物3,https://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本购物4,https://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+
+韩国_7788,#genre#
+韩国电影,rtmp://211.195.208.119/live/12
+sbsonair,rtmp://210.216.76.120/live/sbsonair
+KBS11,http://mtw.so/6henIc
+
+KBS1,http://175.193.226.144:9981/stream/channelid/1802270304?ticket=7B1A8D60C5E59FF7AEC1B564459DC946D27BD637&profile=pass
+MBC,http://175.193.226.144:9981/stream/channelid/1256535871?ticket=5D192A07B4ACC2875B1A7F77F91D2460C07FFA70&profile=pass
+EBS2,http://175.193.226.144:9981/stream/channelid/992040994?ticket=ADD506AD8018C24B3A5C8DF4BE374FB35108C1E7&profile=pass
+캐리TV,http://175.193.226.144:9981/stream/channelid/899381223?ticket=06B3E24EE02222838D9D78057AECC3C3C23935A1&profile=pass
+Good TV,http://175.193.226.144:9981/stream/channelid/1497978166?ticket=EC97C855747124B3DDB542F4C08E3EB083F8BA3D&profile=pass
+C Channel,http://175.193.226.144:9981/stream/channelid/692198137?ticket=35BC71F1B81E3EA120CAB86050EFD71AE79593A1&profile=pass
+CTS기독교TV,http://175.193.226.144:9981/stream/channelid/431327225?ticket=6FCF7735020F31A181D69927242E7CC5F2C70106&profile=pass
+CGNTV,http://175.193.226.144:9981/stream/channelid/509330507?ticket=ADEC9FC44E60BB0EA66F385DDD8A2560D01A3A6E&profile=pass
+CBS,http://175.193.226.144:9981/stream/channelid/1560881603?ticket=5F779D81E8028891EB7B46D61FABD6C01F8C152A&profile=pass
+
+TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KBC 광주방송,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+애니원,http://210.97.86.161:9981/stream/channelid/377618692?ticket=
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+JUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+job plus,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
+CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+KBS News D,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+MBC综合频道[1280*720],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国新聞,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+TJB(SBS大田),http://1.245.74.5:1935/live/tv/.m3u8
+EBS第频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+ABNHD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+CJOnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+GSShop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+CJOnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+GugakTV國樂放送,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+NB Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
+연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476?
+BBSTV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS한국농업방송1,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+SAND BOX,http://58.142.60.62:9981/stream/channelid/167222103?profile=pass
+JUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+jtbc2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
+
+韩国-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国EBS儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国KBC SBS综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
+韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国Korea arirang 1,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+韩国Korea arirang 3,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+韩国Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
+韩国MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+韩国NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国TJB SBS综艺,http://1.245.74.5:1935/live/tv/.m3u8
+韩国阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+
+MbcYeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+연합뉴스TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
+MBC무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
+tvN사랑의불시착,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
+MBC나혼자산다,https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
+SBSTV동물농장,https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
+tvN미스터션샤인,https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
+새해웃음특집,https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
+tvN더지니어스:그랜드파이널,https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
+JTBC냉장고를부탁해,https://i.mjh.nz/SamsungTVPlus/KRBD4300003MW.m3u8
+Fireplace4K,https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8
+MBC나는가수다,https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8
+MBC옷소매붉은끝동,https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
+KBS1박2일시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
+JTBC아는형님,https://i.mjh.nz/SamsungTVPlus/KRBD43000023M.m3u8
+JTBC비긴어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
+JTBC크라임씬,https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
+byBugs,https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8
+tvNSPORTS,https://i.mjh.nz/SamsungTVPlus/KRBC800015MH.m3u8
+Mnet스트릿우먼파이터2HOTCLIP,https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
+tvN유퀴즈온더블럭HOTCLIP,https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8
+Animax반지의비밀일기,https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
+K-STAR골프,https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8
+PGATour,https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8
+SBS편의점샛별이,https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8
+SBS궁금한이야기Y,https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8
+JTBC톡파원25시,https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
+KBS정도전,https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
+JTBCSKY캐슬,https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8
+JTBC품위있는그녀,https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8
+SBS나는솔로,https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
+TV조선미스터트롯영웅의탄생,https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
+TV조선우리이혼했어요,https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
+TV조선골프왕,https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
+PLAYY영화,https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
+SBS스토브리그,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+SBS순풍산부인과,https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
+MBC지붕뚫고하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
+JTBC효리네민박시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8
+SBS정글의법칙,https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
+맛있는녀석들,https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
+JTBC18어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8
+채널A이제만나러갑니다,https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8
+전우치,https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
+사피엔스스튜디오,https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8
+역사읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8
+심리읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8
+tvN환혼,https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8
+tvN대탈출3,https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8
+TVCHOSUN국가가부른다,https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8
+JTBC뉴스,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+tvN윤스테이,https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
+뽀요TV,https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8
+SBS빽드,https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
+Animax하이큐!!,https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8
+코코비TV,https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8
+로보카폴리TV,https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8
+iHQ돈쭐내러왔습니다,https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8
+E채널토요일은밥이좋아,https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8
+KBSJoy연애의참견,https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8
+NEWMOVIES,https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
+OGN스타리그,https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
+WorldBilliardsTV,https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8
+TED,https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
+BloombergTV+UHD,https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
+BloombergOriginals,https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
+글로벌뉴스byLeadStory,https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8
+JTBC최강야구,https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
+JTBC골프,https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8
+FIFA+,https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+KBS개는훌륭하다,https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
+씨네21+,https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
+SBSHD,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=156426&extension=ts
+MBCA,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=156429&extension=ts
+KBSNewsD,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,http://183.99.22.189:9981/stream/channelid/806525648?
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+EBS,http://183.99.22.189:9981/stream/channelid/1358704792?ticket=486A92F5229947808649CA1BA6D2AF3BD1F1DC5D&profile=pass
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+another test again
