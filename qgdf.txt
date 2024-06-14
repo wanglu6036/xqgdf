@@ -1,5 +1,5 @@
 第1组,#genre#
-CCTV1-综合的,http://27.54.236.201:9836/China.php?id=cctv1
+CCTV1-综合,http://27.54.236.201:9836/China.php?id=cctv1
 CCTV2-财经,http://27.54.236.201:9836/China.php?id=cctv2
 CCTV3-综艺,http://27.54.236.201:9836/China.php?id=cctv3
 CCTV4-国际,http://27.54.236.201:9836/China.php?id=cctv4
