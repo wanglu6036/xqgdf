@@ -1,4 +1,60 @@
 第1组,#genre#
+CCTV1-综合,https://histar.zapi.us.kg/?id=cctv1
+CCTV2-财经,https://histar.zapi.us.kg/?id=cctv2
+CCTV3-综艺,https://histar.zapi.us.kg/?id=cctv3
+CCTV4国际,https://histar.zapi.us.kg/?id=cctv4
+CCTV5-体育,https://histar.zapi.us.kg/?id=cctv5
+CCTV5+体育赛事,https://histar.zapi.us.kg/?id=cctv5plus
+CCTV6-电影,https://histar.zapi.us.kg/?id=cctv6
+CCTV7-军农,https://histar.zapi.us.kg/?id=cctv7
+CCTV8-电视剧,https://histar.zapi.us.kg/?id=cctv8
+CCTV9-纪录,https://histar.zapi.us.kg/?id=cctv9
+CCTV10-科教,https://histar.zapi.us.kg/?id=cctv10
+CCTV11-戏曲,https://histar.zapi.us.kg/?id=cctv11
+CCTV12-社会,https://histar.zapi.us.kg/?id=cctv12
+CCTV13-新闻,https://histar.zapi.us.kg/?id=cctv13
+CCTV14-少儿,https://histar.zapi.us.kg/?id=cctv14
+CCTV15-音乐,https://histar.zapi.us.kg/?id=cctv15
+CCTV16-奥林匹克,https://histar.zapi.us.kg/?id=cctv16
+CCTV17-农业农村,https://histar.zapi.us.kg/?id=cctv17
+CHC家庭影院,https://histar.zapi.us.kg/?id=chc-jtyy
+CHC动作电影,https://histar.zapi.us.kg/?id=chc-dzdy
+CHC高清电影,https://histar.zapi.us.kg/?id=chc-gqdy
+湖南卫视,https://histar.zapi.us.kg/?id=hunan
+浙江卫视,https://histar.zapi.us.kg/?id=zhejiang
+东方卫视,https://histar.zapi.us.kg/?id=dongfang
+江苏卫视,https://histar.zapi.us.kg/?id=jiangsu
+北京卫视,https://histar.zapi.us.kg/?id=beijing
+深圳卫视,https://histar.zapi.us.kg/?id=shenzhen
+广东卫视,https://histar.zapi.us.kg/?id=guangdong
+大湾区卫视,https://histar.zapi.us.kg/?id=gdwqws
+重庆卫视,https://histar.zapi.us.kg/?id=chongqing
+东南卫视,https://histar.zapi.us.kg/?id=dongnan
+广西卫视,https://histar.zapi.us.kg/?id=guangxi
+贵州卫视,https://histar.zapi.us.kg/?id=guizhou
+海南卫视,https://histar.zapi.us.kg/?id=hainan
+河北卫视,https://histar.zapi.us.kg/?id=hebei
+黑龙江卫视,https://histar.zapi.us.kg/?id=heilongjiang
+湖北卫视,https://histar.zapi.us.kg/?id=hubei
+江西卫视,https://histar.zapi.us.kg/?id=jiangxi
+吉林卫视,https://histar.zapi.us.kg/?id=jilin
+辽宁卫视,https://histar.zapi.us.kg/?id=liaoning
+内蒙古卫视,https://histar.zapi.us.kg/?id=neimenggu
+宁夏卫视,https://histar.zapi.us.kg/?id=ningxia
+陕西卫视,https://histar.zapi.us.kg/?id=shaanxi
+山东卫视,https://histar.zapi.us.kg/?id=shandong
+山西卫视,https://histar.zapi.us.kg/?id=shanxi
+四川卫视,https://histar.zapi.us.kg/?id=sichuan
+天津卫视,https://histar.zapi.us.kg/?id=tianjin
+厦门卫视,https://histar.zapi.us.kg/?id=xiamen
+新疆卫视,https://histar.zapi.us.kg/?id=xinjiang
+西藏卫视,https://histar.zapi.us.kg/?id=xizang
+云南卫视,https://histar.zapi.us.kg/?id=yunnan
+安徽卫视,https://histar.zapi.us.kg/?id=anhui
+河南卫视,https://histar.zapi.us.kg/?id=henan
+青海卫视,https://histar.zapi.us.kg/?id=qinghai
+甘肃卫视,https://histar.zapi.us.kg/?id=gansu
+第2组,#genre#
 CCTV1-综合,http://27.54.236.201:9836/China.php?id=cctv1
 CCTV2-财经,http://27.54.236.201:9836/China.php?id=cctv2
 CCTV3-综艺,http://27.54.236.201:9836/China.php?id=cctv3
@@ -57,7 +113,7 @@ CCTV-央视台球,http://27.54.236.201:9836/China.php?id=ystq
 三沙卫视,http://27.54.236.201:9836/China.php?id=ssws
 黑龙江卫视,http://27.54.236.201:9836/China.php?id=hljws
 内蒙古卫视,http://27.54.236.201:9836/China.php?id=nmws
-第2组,#genre#
+第3组,#genre#
 CCTV1-综合,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2-财经,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3-综艺,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
@@ -130,7 +186,7 @@ CCTV-15音乐,P2p://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 黑龙江卫视,P2p://generationnexxxt.com:19806/2f690600a9454710b15b0e90853268c3
 大湾区卫视,P2p://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
 广东珠江台,P2p://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
-第3组,#genre#
+第4组,#genre#
 CCTV1-综合,http://cdn.1678520.xyz/xsj.php?id=cctv1
 CCTV2-财经,http://cdn.1678520.xyz/xsj.php?id=cctv2
 CCTV3-综艺,http://cdn.1678520.xyz/xsj.php?id=cctv3
@@ -184,7 +240,7 @@ CCTV17-农业农村,http://cdn.1678520.xyz/xsj.php?id=cctv17
 大湾区卫视,http://cdn.1678520.xyz/xsj.php?id=gdwqws
 黑龙江卫视,http://cdn.1678520.xyz/xsj.php?id=heilongjiang
 内蒙古卫视,http://cdn.1678520.xyz/xsj.php?id=neimenggu
-第4组,#genre#
+第5组,#genre#
 CCTV1-综合,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv1
 CCTV2-财经,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv2
 CCTV3-综艺,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv3
@@ -276,7 +332,7 @@ CCTV-4k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
 天津卫视,http://cdn.jdshipin.com:8880/ysp.php?id=tjws
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 海南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hinws
-第5组,#genre#
+第6组,#genre#
 CCTV1-综合,http://ori.jsblive.hls.domybox.com:91/live/CCTV1hd-8M/live.m3u8
 CCTV2-财经,http://ori.jsblive.hls.domybox.com:91/live/CCTV2hd-8M/live.m3u8
 CCTV3-综艺,http://ori.jsblive.hls.domybox.com:91/live/CCTV3hd-8M/live.m3u8
@@ -295,7 +351,7 @@ CCTV14-少儿,http://ori.jsblive.hls.domybox.com:91/live/CCTV14hd-8M/live.m3u8
 CCTV15-音乐,http://ori.jsblive.hls.domybox.com:91/live/CCTV15hd-8M/live.m3u8
 CCTV16-奥林匹克,http://ori.jsblive.hls.domybox.com:91/live/CCTV16hd-8M/live.m3u8
 CCTV17-农业农村,http://ori.jsblive.hls.domybox.com:91/live/CCTV17hd-8M/live.m3u8
-第6组,#genre#
+第7组,#genre#
 CCTV1-综合,http://116.204.70.255/migu.php?id=cctv1	
 CCTV2-财经,http://116.204.70.255/migu.php?id=cctv2	
 CCTV3-综艺,http://116.204.70.255/migu.php?id=cctv3	
@@ -312,7 +368,39 @@ CCTV12-社会,http://116.204.70.255/migu.php?id=cctv12
 CCTV13-新闻,http://116.204.70.255/migu.php?id=cctv13	
 CCTV14-少儿,http://116.204.70.255/migu.php?id=cctv14
 CCTV15-音乐,http://116.204.70.255/migu.php?id=cctv15
-第7组,#genre#
+第8组,#genre#
+CCTV1-综合, http://103.242.14.150/cqyx.php?id=cctv1
+CCTV2-财经, http://103.242.14.150/cqyx.php?id=cctv2
+CCTV3-综艺, http://103.242.14.150/cqyx.php?id=cctv3
+CCTV4-国际, http://103.242.14.150/cqyx.php?id=cctv4
+CCTV5-体育, http://103.242.14.150/cqyx.php?id=cctv5
+CCTV5+体育赛事, http://103.242.14.150/cqyx.php?id=cctv5p
+CCTV6-电影, http://103.242.14.150/cqyx.php?id=cctv6
+CCTV8-电视剧, http://103.242.14.150/cqyx.php?id=cctv8
+CCTV9-纪录, http://103.242.14.150/cqyx.php?id=cctv9
+CCTV10-科教, http://103.242.14.150/cqyx.php?id=cctv10
+CCTV11-戏曲, http://103.242.14.150/cqyx.php?id=cctv11
+CCTV12-社会, http://103.242.14.150/cqyx.php?id=cctv12
+CCTV13-新闻, http://103.242.14.150/cqyx.php?id=cctv13
+CCTV14-少儿, http://103.242.14.150/cqyx.php?id=cctv14
+CCTV15-音乐, http://103.242.14.150/cqyx.php?id=cctv15
+CCTV16-奥林匹克, http://103.242.14.150/cqyx.php?id=cctv16
+CCTV17-农业农村, http://103.242.14.150/cqyx.php?id=cctv17
+CCTV兵器科技, http://103.242.14.150/cqyx.php?id=bqkj
+CCTV第一剧场, http://103.242.14.150/cqyx.php?id=dyjc
+CCTV怀旧剧场, http://103.242.14.150/cqyx.php?id=hjjc
+CCTV风云剧场, http://103.242.14.150/cqyx.php?id=fyjc
+CCTV风云音乐, http://103.242.14.150/cqyx.php?id=fyyy
+CCTV风云足球, http://103.242.14.150/cqyx.php?id=fyzq
+CCTV央视文化精品, http://103.242.14.150/cqyx.php?id=whjp
+CCTV女性时尚, http://103.242.14.150/cqyx.php?id=nxss
+CCTV高尔夫网球, http://103.242.14.150/cqyx.php?id=gefwq
+CCTV央视台球, http://103.242.14.150/cqyx.php?id=ystq
+CCTV央广购物, http://103.242.14.150/cqyx.php?id=yggw
+CCTV中视购物, http://103.242.14.150/cqyx.php?id=zsgw
+CHC高清电影, http://103.242.14.150/cqyx.php?id=chcgq
+CHC动作电影, http://103.242.14.150/cqyx.php?id=chcdz
+CHC家庭影院, http://103.242.14.150/cqyx.php?id=chcjt
 CCTV1-综合,http://103.242.14.150/Bt.php?id=cctv1	
 CCTV2-财经,http://103.242.14.150/Bt.php?id=cctv2	
 CCTV3-综艺,http://103.242.14.150/Bt.php?id=cctv3	
@@ -329,6 +417,37 @@ CCTV12-社会,http://103.242.14.150/Bt.php?id=cctv12
 CCTV13-新闻,http://103.242.14.150/Bt.php?id=cctv13	
 CCTV14-少儿,http://103.242.14.150/Bt.php?id=cctv14
 CCTV15-音乐,http://103.242.14.150/Bt.php?id=cctv15
+北京卫视, http://103.242.14.150/cqyx.php?id=bjws
+东方卫视, http://103.242.14.150/cqyx.php?id=dfws
+天津卫视, http://103.242.14.150/cqyx.php?id=tjws
+重庆卫视, http://103.242.14.150/cqyx.php?id=cqws
+黑龙江卫视, http://103.242.14.150/cqyx.php?id=hljws
+吉林卫视, http://103.242.14.150/cqyx.php?id=jlws
+辽宁卫视, http://103.242.14.150/cqyx.php?id=lnws
+内蒙古卫视, http://103.242.14.150/cqyx.php?id=nmws
+宁夏卫视, http://103.242.14.150/cqyx.php?id=nxws
+青海卫视, http://103.242.14.150/cqyx.php?id=qhws
+河北卫视, http://103.242.14.150/cqyx.php?id=hbws
+山西卫视, http://103.242.14.150/cqyx.php?id=sxiws
+安徽卫视, http://103.242.14.150/cqyx.php?id=ahws
+河南卫视, http://103.242.14.150/cqyx.php?id=hnws
+湖北卫视, http://103.242.14.150/cqyx.php?id=hubws
+湖南卫视, http://103.242.14.150/cqyx.php?id=hunws
+江西卫视, http://103.242.14.150/cqyx.php?id=jxws
+江苏卫视, http://103.242.14.150/cqyx.php?id=jsws
+浙江卫视, http://103.242.14.150/cqyx.php?id=zjws
+东南卫视, http://103.242.14.150/cqyx.php?id=dnws
+广东卫视, http://103.242.14.150/cqyx.php?id=gdws
+深圳卫视, http://103.242.14.150/cqyx.php?id=szws
+广西卫视, http://103.242.14.150/cqyx.php?id=gxws
+云南卫视, http://103.242.14.150/cqyx.php?id=ynws
+贵州卫视, http://103.242.14.150/cqyx.php?id=gzws
+四川卫视, http://103.242.14.150/cqyx.php?id=scws
+新疆卫视, http://103.242.14.150/cqyx.php?id=xjws
+兵团卫视, http://103.242.14.150/cqyx.php?id=btws
+西藏卫视, http://103.242.14.150/cqyx.php?id=xzws
+海南卫视, http://103.242.14.150/cqyx.php?id=hinws
+三沙卫视, http://103.242.14.150/cqyx.php?id=ssws
 北京卫视,http://103.242.14.150/Bt.php?id=bjws
 东方卫视,http://103.242.14.150/Bt.php?id=dfws
 天津卫视,http://103.242.14.150/Bt.php?id=tjws
@@ -365,7 +484,7 @@ CCTV15-音乐,http://103.242.14.150/Bt.php?id=cctv15
 内蒙古卫视,http://103.242.14.150/Bt.php?id=nmws
 西藏藏语卫视,http://103.242.14.150/Bt.php?id=xzwszy
 海南卫视,http://103.242.14.150/Bt.php?id=hinws
-第8组,#genre#
+第9组,#genre#
 CCTV1-综合,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000123.m3u8
 CCTV2-财经,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000002.m3u8
 CCTV3-综艺,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000126.m3u8
@@ -414,7 +533,7 @@ CCTV15-音乐,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hl
 青海卫视,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000078.m3u8
 内蒙古卫视,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000018.m3u8
 黑龙江卫视,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000162.m3u8
-第9组,#genre#
+第10组,#genre#
 CCTV1,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
 CCTV1,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
 CCTV2,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel2/1300.m3u8
@@ -505,7 +624,7 @@ CGTN,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channe11
 兵团卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel67/2300.m3u8
 西藏卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/1300.m3u8
 西藏卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/2300.m3u8
-第10组,#genre#
+第11组,#genre#
 CCTV1,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel91/2300.m3u8
 CCTV3,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41139/2300.m3u8
 CCTV5,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/2300.m3u8
@@ -587,7 +706,7 @@ CGTN纪录,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/ch
 大湾区卫视,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel58/1300.m3u8
 云南卫视,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel61/2300.m3u8
 海南卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel62/2300.m3u8
-第11组,#genre#
+第12组,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 山东,#genre#
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
