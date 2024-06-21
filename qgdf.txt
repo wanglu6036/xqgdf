@@ -1,118 +1,97 @@
 第1组,#genre#
-CCTV1-综合,https://histar.zapi.us.kg/?id=cctv1
-CCTV2-财经,https://histar.zapi.us.kg/?id=cctv2
-CCTV3-综艺,https://histar.zapi.us.kg/?id=cctv3
-CCTV4国际,https://histar.zapi.us.kg/?id=cctv4
-CCTV5-体育,https://histar.zapi.us.kg/?id=cctv5
-CCTV5+体育赛事,https://histar.zapi.us.kg/?id=cctv5plus
-CCTV6-电影,https://histar.zapi.us.kg/?id=cctv6
-CCTV7-军农,https://histar.zapi.us.kg/?id=cctv7
-CCTV8-电视剧,https://histar.zapi.us.kg/?id=cctv8
-CCTV9-纪录,https://histar.zapi.us.kg/?id=cctv9
-CCTV10-科教,https://histar.zapi.us.kg/?id=cctv10
-CCTV11-戏曲,https://histar.zapi.us.kg/?id=cctv11
-CCTV12-社会,https://histar.zapi.us.kg/?id=cctv12
-CCTV13-新闻,https://histar.zapi.us.kg/?id=cctv13
-CCTV14-少儿,https://histar.zapi.us.kg/?id=cctv14
-CCTV15-音乐,https://histar.zapi.us.kg/?id=cctv15
-CCTV16-奥林匹克,https://histar.zapi.us.kg/?id=cctv16
-CCTV17-农业农村,https://histar.zapi.us.kg/?id=cctv17
-CHC家庭影院,https://histar.zapi.us.kg/?id=chc-jtyy
-CHC动作电影,https://histar.zapi.us.kg/?id=chc-dzdy
-CHC高清电影,https://histar.zapi.us.kg/?id=chc-gqdy
-湖南卫视,https://histar.zapi.us.kg/?id=hunan
-浙江卫视,https://histar.zapi.us.kg/?id=zhejiang
-东方卫视,https://histar.zapi.us.kg/?id=dongfang
-江苏卫视,https://histar.zapi.us.kg/?id=jiangsu
-北京卫视,https://histar.zapi.us.kg/?id=beijing
-深圳卫视,https://histar.zapi.us.kg/?id=shenzhen
-广东卫视,https://histar.zapi.us.kg/?id=guangdong
-大湾区卫视,https://histar.zapi.us.kg/?id=gdwqws
-重庆卫视,https://histar.zapi.us.kg/?id=chongqing
-东南卫视,https://histar.zapi.us.kg/?id=dongnan
-广西卫视,https://histar.zapi.us.kg/?id=guangxi
-贵州卫视,https://histar.zapi.us.kg/?id=guizhou
-海南卫视,https://histar.zapi.us.kg/?id=hainan
-河北卫视,https://histar.zapi.us.kg/?id=hebei
-黑龙江卫视,https://histar.zapi.us.kg/?id=heilongjiang
-湖北卫视,https://histar.zapi.us.kg/?id=hubei
-江西卫视,https://histar.zapi.us.kg/?id=jiangxi
-吉林卫视,https://histar.zapi.us.kg/?id=jilin
-辽宁卫视,https://histar.zapi.us.kg/?id=liaoning
-内蒙古卫视,https://histar.zapi.us.kg/?id=neimenggu
-宁夏卫视,https://histar.zapi.us.kg/?id=ningxia
-陕西卫视,https://histar.zapi.us.kg/?id=shaanxi
-山东卫视,https://histar.zapi.us.kg/?id=shandong
-山西卫视,https://histar.zapi.us.kg/?id=shanxi
-四川卫视,https://histar.zapi.us.kg/?id=sichuan
-天津卫视,https://histar.zapi.us.kg/?id=tianjin
-厦门卫视,https://histar.zapi.us.kg/?id=xiamen
-新疆卫视,https://histar.zapi.us.kg/?id=xinjiang
-西藏卫视,https://histar.zapi.us.kg/?id=xizang
-云南卫视,https://histar.zapi.us.kg/?id=yunnan
-安徽卫视,https://histar.zapi.us.kg/?id=anhui
-河南卫视,https://histar.zapi.us.kg/?id=henan
-青海卫视,https://histar.zapi.us.kg/?id=qinghai
-甘肃卫视,https://histar.zapi.us.kg/?id=gansu
+CCTV1-综合,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv1
+CCTV2-财经,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv2
+CCTV3-综艺,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv3
+CCTV4-国际,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv4
+CCTV5-体育,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv5
+CCTV5+体育赛事,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv5p
+CCTV6-电影,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv6
+CCTV7-军农,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv7
+CCTV8-电视剧,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv8
+CCTV9-纪录,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv9
+CCTV10-科教,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv10
+CCTV11-戏曲,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv11
+CCTV12-社会,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv12
+CCTV13-新闻,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv13
+CCTV14-少儿,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv14
+CCTV15-音乐,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv15
+CCTV16-奥林匹克,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv16
+CCTV17-农业农村,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv17
+北京卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=bjws
+东方卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=dfws
+天津卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=tjws
+重庆卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cqws
+辽宁卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=lnws
+河北卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hbws
+山东卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=sdws
+安徽卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=ahws
+河南卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hnws
+湖北卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hubws
+湖南卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hunws
+江西卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=jxws
+江苏卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=jsws
+浙江卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=zjws
+东南卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=dnws
+广东卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=gdws
+深圳卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=szws
+广西卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=gxws
+贵州卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=gzws
+四川卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=scws
+新疆卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=xjws
+海南卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hinws
+黑龙江卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hljws
 第2组,#genre#
-CCTV1-综合,http://27.54.236.201:9836/China.php?id=cctv1
-CCTV2-财经,http://27.54.236.201:9836/China.php?id=cctv2
-CCTV3-综艺,http://27.54.236.201:9836/China.php?id=cctv3
-CCTV4-国际,http://27.54.236.201:9836/China.php?id=cctv4
-CCTV5-体育,http://27.54.236.201:9836/China.php?id=cctv5
-CCTV6-电影,http://27.54.236.201:9836/China.php?id=cctv6
-CCTV7-军农,http://27.54.236.201:9836/China.php?id=cctv7
-CCTV8-电视剧,http://27.54.236.201:9836/China.php?id=cctv8
-CCTV9-纪录,http://27.54.236.201:9836/China.php?id=cctv9
-CCTV10-科教,http://27.54.236.201:9836/China.php?id=cctv10
-CCTV11-戏曲,http://27.54.236.201:9836/China.php?id=cctv11
-CCTV12-社会,http://27.54.236.201:9836/China.php?id=cctv12
-CCTV13-新闻,http://27.54.236.201:9836/China.php?id=cctv13
-CCTV14-少儿,http://27.54.236.201:9836/China.php?id=cctv14
-CCTV15-音乐,http://27.54.236.201:9836/China.php?id=cctv15
-CCTV16-奥林匹克,http://27.54.236.201:9836/China.php?id=cctv16
-CCTV17-农业农村,http://27.54.236.201:9836/China.php?id=cctv17
-CCTV-兵器科技,http://27.54.236.201:9836/China.php?id=bqkj
-CCTV-第一剧场,http://27.54.236.201:9836/China.php?id=dyjc
-CCTV-怀旧剧场,http://27.54.236.201:9836/China.php?id=hjjc
-CCTV-风云剧场,http://27.54.236.201:9836/China.php?id=fyjc
-CCTV-风云音乐,http://27.54.236.201:9836/China.php?id=fyyy
-CCTV-风云足球,http://27.54.236.201:9836/China.php?id=fyzq
-CCTV-央视文化精品,http://27.54.236.201:9836/China.php?id=whjp
-CCTV-女性时尚,http://27.54.236.201:9836/China.php?id=nxss
-CCTV-高尔夫网球,http://27.54.236.201:9836/China.php?id=gefwq
-CCTV-央视台球,http://27.54.236.201:9836/China.php?id=ystq
-北京卫视,http://27.54.236.201:9836/China.php?id=bjws
-东方卫视,http://27.54.236.201:9836/China.php?id=dfws
-天津卫视,http://27.54.236.201:9836/China.php?id=tjws
-重庆卫视,http://27.54.236.201:9836/China.php?id=cqws
-吉林卫视,http://27.54.236.201:9836/China.php?id=jlws
-辽宁卫视,http://27.54.236.201:9836/China.php?id=lnws
-宁夏卫视,http://27.54.236.201:9836/China.php?id=nxws
-青海卫视,http://27.54.236.201:9836/China.php?id=qhws
-河北卫视,http://27.54.236.201:9836/China.php?id=hbws
-山西卫视,http://27.54.236.201:9836/China.php?id=sxiws
-安徽卫视,http://27.54.236.201:9836/China.php?id=ahws
-河南卫视,http://27.54.236.201:9836/China.php?id=hnws
-湖北卫视,http://27.54.236.201:9836/China.php?id=hubws
-湖南卫视,http://27.54.236.201:9836/China.php?id=hunws
-江西卫视,http://27.54.236.201:9836/China.php?id=jxws
-江苏卫视,http://27.54.236.201:9836/China.php?id=jsws
-浙江卫视,http://27.54.236.201:9836/China.php?id=zjws
-东南卫视,http://27.54.236.201:9836/China.php?id=dnws
-广东卫视,http://27.54.236.201:9836/China.php?id=gdws
-深圳卫视,http://27.54.236.201:9836/China.php?id=szws
-广西卫视,http://27.54.236.201:9836/China.php?id=gxws
-云南卫视,http://27.54.236.201:9836/China.php?id=ynws
-贵州卫视,http://27.54.236.201:9836/China.php?id=gzws
-四川卫视,http://27.54.236.201:9836/China.php?id=scws
-新疆卫视,http://27.54.236.201:9836/China.php?id=xjws
-兵团卫视,http://27.54.236.201:9836/China.php?id=btws
-西藏卫视,http://27.54.236.201:9836/China.php?id=xzws
-海南卫视,http://27.54.236.201:9836/China.php?id=hinws
-三沙卫视,http://27.54.236.201:9836/China.php?id=ssws
-黑龙江卫视,http://27.54.236.201:9836/China.php?id=hljws
-内蒙古卫视,http://27.54.236.201:9836/China.php?id=nmws
+CHC动作电影,http://58.216.99.148:80/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+CHC高清电影,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+CHC家庭影院,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+CCTV1-综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+CCTV2-财经,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
+CCTV3-综艺,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+CCTV4-国际,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
+CCTV5-体育,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+CCTV5+体育赛事,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+CCTV6-电影,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+CCTV7-军农,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
+CCTV8-电视剧,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
+CCTV9-纪录,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
+CCTV10-科教,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
+CCTV11-戏曲,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
+CCTV12-社会,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
+CCTV13-新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+CCTV14-少儿,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
+CCTV15-音乐,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
+凤凰中文,http://58.216.99.148:80/live2.rxip.sc96655.com/live/test1_4000.m3u8
+凤凰资讯,http://58.216.99.148:80/live2.rxip.sc96655.com/live/test2_4000.m3u8
+安徽卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+北京卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+浙江卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+重庆卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8
+东方卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+东南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
+甘肃卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gsws_4000.m3u8
+广东卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+广西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxws_4000.m3u8
+贵州卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8
+海南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnws_4000.m3u8
+河南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnws35_4000.m3u8
+湖北卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8
+湖南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+吉林卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8
+江苏卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
+江西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8
+康巴卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8
+辽宁卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
+山东卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+山西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sxws42_4000.m3u8
+陕西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sxws_4000.m3u8
+深圳卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/szwsH265_4000.m3u8
+四川卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/scwsH265_4000.m3u8
+天津卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8
+西藏卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8
+兵团卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/btws_4000.m3u8
+云南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ynws_4000.m3u8
+黑龙江卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8
+内蒙古卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/nmgws_4000.m3u8
 第3组,#genre#
 CCTV1-综合,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2-财经,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
@@ -187,171 +166,6 @@ CCTV-15音乐,P2p://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 大湾区卫视,P2p://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
 广东珠江台,P2p://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
 第4组,#genre#
-CCTV1-综合,http://cdn.1678520.xyz/xsj.php?id=cctv1
-CCTV2-财经,http://cdn.1678520.xyz/xsj.php?id=cctv2
-CCTV3-综艺,http://cdn.1678520.xyz/xsj.php?id=cctv3
-CCTV4-国际,http://cdn.1678520.xyz/xsj.php?id=cctv4
-CCTV5-体育,http://cdn.1678520.xyz/xsj.php?id=cctv5
-CCTV5+体育赛事,http://cdn.1678520.xyz/xsj.php?id=cctv5plus
-CCTV6-电影,http://cdn.1678520.xyz/xsj.php?id=cctv6
-CCTV7-军农,http://cdn.1678520.xyz/xsj.php?id=cctv7
-CCTV8-电视剧,http://cdn.1678520.xyz/xsj.php?id=cctv8
-CCTV9-纪录,http://cdn.1678520.xyz/xsj.php?id=cctv9
-CCTV10-科教,http://cdn.1678520.xyz/xsj.php?id=cctv10
-CCTV11-戏曲,http://cdn.1678520.xyz/xsj.php?id=cctv11
-CCTV12-社会,http://cdn.1678520.xyz/xsj.php?id=cctv12
-CCTV13-新闻,http://cdn.1678520.xyz/xsj.php?id=cctv13
-CCTV14-少儿,http://cdn.1678520.xyz/xsj.php?id=cctv14
-CCTV15-音乐,http://cdn.1678520.xyz/xsj.php?id=cctv15
-CCTV16-奥林匹克,http://cdn.1678520.xyz/xsj.php?id=cctv16
-CCTV17-农业农村,http://cdn.1678520.xyz/xsj.php?id=cctv17
-重温经典,http://cdn.1678520.xyz/xsj.php?id=cwjd
-湖南卫视,http://cdn.1678520.xyz/xsj.php?id=hunan
-浙江卫视,http://cdn.1678520.xyz/xsj.php?id=zhejiang
-东方卫视,http://cdn.1678520.xyz/xsj.php?id=dongfang
-江苏卫视,http://cdn.1678520.xyz/xsj.php?id=jiangsu
-北京卫视,http://cdn.1678520.xyz/xsj.php?id=beijing
-深圳卫视,http://cdn.1678520.xyz/xsj.php?id=shenzhen
-广东卫视,http://cdn.1678520.xyz/xsj.php?id=guangdong
-重庆卫视,http://cdn.1678520.xyz/xsj.php?id=chongqing
-东南卫视,http://cdn.1678520.xyz/xsj.php?id=dongnan
-广西卫视,http://cdn.1678520.xyz/xsj.php?id=guangxi
-贵州卫视,http://cdn.1678520.xyz/xsj.php?id=guizhou
-海南卫视,http://cdn.1678520.xyz/xsj.php?id=hainan
-河北卫视,http://cdn.1678520.xyz/xsj.php?id=hebei
-湖北卫视,http://cdn.1678520.xyz/xsj.php?id=hubei
-江西卫视,http://cdn.1678520.xyz/xsj.php?id=jiangxi
-吉林卫视,http://cdn.1678520.xyz/xsj.php?id=jilin
-辽宁卫视,http://cdn.1678520.xyz/xsj.php?id=liaoning
-宁夏卫视,http://cdn.1678520.xyz/xsj.php?id=ningxia
-陕西卫视,http://cdn.1678520.xyz/xsj.php?id=shaanxi
-山东卫视,http://cdn.1678520.xyz/xsj.php?id=shandong
-山西卫视,http://cdn.1678520.xyz/xsj.php?id=shanxi
-四川卫视,http://cdn.1678520.xyz/xsj.php?id=sichuan
-天津卫视,http://cdn.1678520.xyz/xsj.php?id=tianjin
-厦门卫视,http://cdn.1678520.xyz/xsj.php?id=xiamen
-新疆卫视,http://cdn.1678520.xyz/xsj.php?id=xinjiang
-西藏卫视,http://cdn.1678520.xyz/xsj.php?id=xizang
-云南卫视,http://cdn.1678520.xyz/xsj.php?id=yunnan
-安徽卫视,http://cdn.1678520.xyz/xsj.php?id=anhui
-河南卫视,http://cdn.1678520.xyz/xsj.php?id=henan
-青海卫视,http://cdn.1678520.xyz/xsj.php?id=qinghai
-甘肃卫视,http://cdn.1678520.xyz/xsj.php?id=gansu
-大湾区卫视,http://cdn.1678520.xyz/xsj.php?id=gdwqws
-黑龙江卫视,http://cdn.1678520.xyz/xsj.php?id=heilongjiang
-内蒙古卫视,http://cdn.1678520.xyz/xsj.php?id=neimenggu
-第5组,#genre#
-CCTV1-综合,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv1
-CCTV2-财经,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv2
-CCTV3-综艺,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv3
-CCTV4-国际,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv4
-CCTV5-体育,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv5
-CCTV5+体育赛事,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv5p
-CCTV6-电影,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv6
-CCTV7-军农,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv7
-CCTV8-电视剧,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv8
-CCTV9-纪录,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv9
-CCTV10-科教,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv10
-CCTV11-戏曲,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv11
-CCTV12-社会,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv12
-CCTV13-新闻,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv13
-CCTV14-少儿,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv14
-CCTV15-音乐,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv15
-CCTV16-奥林匹克,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv16
-CCTV17-农业农村,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cctv17
-北京卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=bjws
-东方卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=dfws
-天津卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=tjws
-重庆卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=cqws
-辽宁卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=lnws
-河北卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hbws
-山东卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=sdws
-安徽卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=ahws
-河南卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hnws
-湖北卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hubws
-湖南卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hunws
-江西卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=jxws
-江苏卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=jsws
-浙江卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=zjws
-东南卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=dnws
-广东卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=gdws
-深圳卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=szws
-广西卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=gxws
-贵州卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=gzws
-四川卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=scws
-新疆卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=xjws
-海南卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hinws
-黑龙江卫视,http://cdn.jdshipin.com:8880/ysp14.2.php?id=hljws
-CCTV-1,http://cdn.jdshipin.com:8880/ysp.php?id=cctv1
-CCTV-2,http://cdn.jdshipin.com:8880/ysp.php?id=cctv2
-CCTV-3,http://cdn.jdshipin.com:8880/ysp.php?id=cctv3
-CCTV-4,http://cdn.jdshipin.com:8880/ysp.php?id=cctv4
-CCTV-5,http://cdn.jdshipin.com:8880/ysp.php?id=cctv5
-CCTV-5+,http://cdn.jdshipin.com:8880/ysp.php?id=cctv5p
-CCTV-6,http://cdn.jdshipin.com:8880/ysp.php?id=cctv6
-CCTV-7,http://cdn.jdshipin.com:8880/ysp.php?id=cctv7
-CCTV-8,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8
-CCTV-9,http://cdn.jdshipin.com:8880/ysp.php?id=cctv9
-CCTV-10,http://cdn.jdshipin.com:8880/ysp.php?id=cctv10
-CCTV-11,http://cdn.jdshipin.com:8880/ysp.php?id=cctv11
-CCTV-12,http://cdn.jdshipin.com:8880/ysp.php?id=cctv12
-CCTV-13,http://cdn.jdshipin.com:8880/ysp.php?id=cctv13
-CCTV-14,http://cdn.jdshipin.com:8880/ysp.php?id=cctv14
-CCTV-15,http://cdn.jdshipin.com:8880/ysp.php?id=cctv15
-CCTV-16,http://cdn.jdshipin.com:8880/ysp.php?id=cctv16
-CCTV-16-4k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv164k
-CCTV-17,http://cdn.jdshipin.com:8880/ysp.php?id=cctv17
-CGTN-cf,http://cdn.jdshipin.com:8880/ysp.php?id=cgtn
-cgtn记录,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnjl
-cgtn西语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtne
-cgtn法语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnf
-cgtn阿语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtna
-cgtn俄语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnr
-CCTV-8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
-CCTV-4k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
-湖南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=fnws
-东方卫视,http://cdn.jdshipin.com:8880/ysp.php?id=dfws
-浙江卫视,http://cdn.jdshipin.com:8880/ysp.php?id=zjws
-广东卫视,http://cdn.jdshipin.com:8880/ysp.php?id=gdws
-江苏卫视,http://cdn.jdshipin.com:8880/ysp.php?id=jsws
-深圳卫视,http://cdn.jdshipin.com:8880/ysp.php?id=szws
-黑龙江卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hljws
-辽宁卫视,http://cdn.jdshipin.com:8880/ysp.php?id=lnws
-安微卫视,http://cdn.jdshipin.com:8880/ysp.php?id=ahws
-重庆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=cqws
-东南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=dnws
-广西卫视,http://cdn.jdshipin.com:8880/ysp.php?id=gxws
-貴州卫视,http://cdn.jdshipin.com:8880/ysp.php?id=gzws
-河北卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hbws
-河南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hnws
-湖北卫视,http://cdn.jdshipin.com:8880/ysp.php?id=fbws
-江西卫视,http://cdn.jdshipin.com:8880/ysp.php?id=jxws
-山東卫视,http://cdn.jdshipin.com:8880/ysp.php?id=sdws
-四川卫视,http://cdn.jdshipin.com:8880/ysp.php?id=scws
-北京卫视,http://cdn.jdshipin.com:8880/ysp.php?id=bjws
-天津卫视,http://cdn.jdshipin.com:8880/ysp.php?id=tjws
-新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
-海南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hinws
-第6组,#genre#
-CCTV1-综合,http://ori.jsblive.hls.domybox.com:91/live/CCTV1hd-8M/live.m3u8
-CCTV2-财经,http://ori.jsblive.hls.domybox.com:91/live/CCTV2hd-8M/live.m3u8
-CCTV3-综艺,http://ori.jsblive.hls.domybox.com:91/live/CCTV3hd-8M/live.m3u8
-CCTV4-国际,http://ori.jsblive.hls.domybox.com:91/live/CCTV4hd-8M/live.m3u8
-CCTV5-体育,http://ori.jsblive.hls.domybox.com:91/live/CCTV5hd-8M/live.m3u8
-CCTV5+体育赛事,http://ori.jsblive.hls.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
-CCTV6-电影,http://ori.jsblive.hls.domybox.com:91/live/CCTV6hd-8M/live.m3u8
-CCTV7-军农,http://ori.jsblive.hls.domybox.com:91/live/CCTV7hd-8M/live.m3u8
-CCTV8-电视剧,http://ori.jsblive.hls.domybox.com:91/live/CCTV8hd-8M/live.m3u8
-CCTV9-纪录,http://ori.jsblive.hls.domybox.com:91/live/CCTV9hd-8M/live.m3u8
-CCTV10-科教,http://ori.jsblive.hls.domybox.com:91/live/CCTV10hd-8M/live.m3u8
-CCTV11-戏曲,http://ori.jsblive.hls.domybox.com:91/live/CCTV11hd-8M/live.m3u8
-CCTV12-社会,http://ori.jsblive.hls.domybox.com:91/live/CCTV12hd-8M/live.m3u8
-CCTV13-新闻,http://ori.jsblive.hls.domybox.com:91/live/CCTV13hd-8M/live.m3u8
-CCTV14-少儿,http://ori.jsblive.hls.domybox.com:91/live/CCTV14hd-8M/live.m3u8
-CCTV15-音乐,http://ori.jsblive.hls.domybox.com:91/live/CCTV15hd-8M/live.m3u8
-CCTV16-奥林匹克,http://ori.jsblive.hls.domybox.com:91/live/CCTV16hd-8M/live.m3u8
-CCTV17-农业农村,http://ori.jsblive.hls.domybox.com:91/live/CCTV17hd-8M/live.m3u8
-第7组,#genre#
 CCTV1-综合,http://116.204.70.255/migu.php?id=cctv1	
 CCTV2-财经,http://116.204.70.255/migu.php?id=cctv2	
 CCTV3-综艺,http://116.204.70.255/migu.php?id=cctv3	
@@ -368,7 +182,7 @@ CCTV12-社会,http://116.204.70.255/migu.php?id=cctv12
 CCTV13-新闻,http://116.204.70.255/migu.php?id=cctv13	
 CCTV14-少儿,http://116.204.70.255/migu.php?id=cctv14
 CCTV15-音乐,http://116.204.70.255/migu.php?id=cctv15
-第8组,#genre#
+第5组,#genre#
 CCTV1-综合, http://103.242.14.150/cqyx.php?id=cctv1
 CCTV2-财经, http://103.242.14.150/cqyx.php?id=cctv2
 CCTV3-综艺, http://103.242.14.150/cqyx.php?id=cctv3
@@ -386,37 +200,6 @@ CCTV14-少儿, http://103.242.14.150/cqyx.php?id=cctv14
 CCTV15-音乐, http://103.242.14.150/cqyx.php?id=cctv15
 CCTV16-奥林匹克, http://103.242.14.150/cqyx.php?id=cctv16
 CCTV17-农业农村, http://103.242.14.150/cqyx.php?id=cctv17
-CCTV兵器科技, http://103.242.14.150/cqyx.php?id=bqkj
-CCTV第一剧场, http://103.242.14.150/cqyx.php?id=dyjc
-CCTV怀旧剧场, http://103.242.14.150/cqyx.php?id=hjjc
-CCTV风云剧场, http://103.242.14.150/cqyx.php?id=fyjc
-CCTV风云音乐, http://103.242.14.150/cqyx.php?id=fyyy
-CCTV风云足球, http://103.242.14.150/cqyx.php?id=fyzq
-CCTV央视文化精品, http://103.242.14.150/cqyx.php?id=whjp
-CCTV女性时尚, http://103.242.14.150/cqyx.php?id=nxss
-CCTV高尔夫网球, http://103.242.14.150/cqyx.php?id=gefwq
-CCTV央视台球, http://103.242.14.150/cqyx.php?id=ystq
-CCTV央广购物, http://103.242.14.150/cqyx.php?id=yggw
-CCTV中视购物, http://103.242.14.150/cqyx.php?id=zsgw
-CHC高清电影, http://103.242.14.150/cqyx.php?id=chcgq
-CHC动作电影, http://103.242.14.150/cqyx.php?id=chcdz
-CHC家庭影院, http://103.242.14.150/cqyx.php?id=chcjt
-CCTV1-综合,http://103.242.14.150/Bt.php?id=cctv1	
-CCTV2-财经,http://103.242.14.150/Bt.php?id=cctv2	
-CCTV3-综艺,http://103.242.14.150/Bt.php?id=cctv3	
-CCTV4-国际,http://103.242.14.150/Bt.php?id=cctv4	
-CCTV5-体育,http://103.242.14.150/Bt.php?id=cctv5	
-CCTV5+体育赛事,http://103.242.14.150/Bt.php?id=cctv5p	
-CCTV6-电影,http://103.242.14.150/Bt.php?id=cctv6	
-CCTV7-军农,http://103.242.14.150/Bt.php?id=cctv7	
-CCTV8-电视剧,http://103.242.14.150/Bt.php?id=cctv8	
-CCTV9-纪录,http://103.242.14.150/Bt.php?id=cctv9	
-CCTV10-科教,http://103.242.14.150/Bt.php?id=cctv10	
-CCTV11-戏曲,http://103.242.14.150/Bt.php?id=cctv11	
-CCTV12-社会,http://103.242.14.150/Bt.php?id=cctv12	
-CCTV13-新闻,http://103.242.14.150/Bt.php?id=cctv13	
-CCTV14-少儿,http://103.242.14.150/Bt.php?id=cctv14
-CCTV15-音乐,http://103.242.14.150/Bt.php?id=cctv15
 北京卫视, http://103.242.14.150/cqyx.php?id=bjws
 东方卫视, http://103.242.14.150/cqyx.php?id=dfws
 天津卫视, http://103.242.14.150/cqyx.php?id=tjws
@@ -454,7 +237,7 @@ CCTV15-音乐,http://103.242.14.150/Bt.php?id=cctv15
 重庆卫视,http://103.242.14.150/Bt.php?id=cqws
 吉林卫视,http://103.242.14.150/Bt.php?id=jlws
 辽宁卫视,http://103.242.14.150/Bt.php?id=lnws
-宁夏卫视  ,http://103.242.14.150/Bt.php?id=nxws
+宁夏卫视 ,http://103.242.14.150/Bt.php?id=nxws
 甘肃卫视,http://103.242.14.150/Bt.php?id=gsws
 青海卫视,http://103.242.14.150/Bt.php?id=qhws
 陕西卫视,http://103.242.14.150/Bt.php?id=sxws
@@ -484,7 +267,7 @@ CCTV15-音乐,http://103.242.14.150/Bt.php?id=cctv15
 内蒙古卫视,http://103.242.14.150/Bt.php?id=nmws
 西藏藏语卫视,http://103.242.14.150/Bt.php?id=xzwszy
 海南卫视,http://103.242.14.150/Bt.php?id=hinws
-第9组,#genre#
+第6组,#genre#
 CCTV1-综合,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000123.m3u8
 CCTV2-财经,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000002.m3u8
 CCTV3-综艺,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000126.m3u8
@@ -533,7 +316,7 @@ CCTV15-音乐,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hl
 青海卫视,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000078.m3u8
 内蒙古卫视,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000018.m3u8
 黑龙江卫视,http://access.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R65F509A2U3097C083K774E2DBEIFFFFFFFFPBM2FB0704V10465Z224E9WF8EB3C84821&playtoken=&programid=4200000162.m3u8
-第10组,#genre#
+第7组,#genre#
 CCTV1,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
 CCTV1,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
 CCTV2,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel2/1300.m3u8
@@ -624,7 +407,7 @@ CGTN,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channe11
 兵团卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel67/2300.m3u8
 西藏卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/1300.m3u8
 西藏卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/2300.m3u8
-第11组,#genre#
+第8组,#genre#
 CCTV1,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel91/2300.m3u8
 CCTV3,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41139/2300.m3u8
 CCTV5,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/2300.m3u8
@@ -706,8 +489,10 @@ CGTN纪录,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/ch
 大湾区卫视,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel58/1300.m3u8
 云南卫视,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel61/2300.m3u8
 海南卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel62/2300.m3u8
-第12组,#genre#
+第9组,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+第10组,#genre#
+重温经典,http://cdn.1678520.xyz/xsj.php?id=cwjd
 山东,#genre#
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
@@ -1186,6 +971,15 @@ CGTN纪录,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/ch
 上海教育,http://103.242.14.150/Bt.php?id=shjy
 浦东电视台,http://103.242.14.150/Bt.php?id=pdtv
 足球频道,http://103.242.14.150/Bt.php?id=zqpd
+东方财经, http://103.242.14.150/cqyx.php?id=dfcj
+欢笑剧场, http://103.242.14.150/cqyx.php?id=hxjc
+都市剧场, http://103.242.14.150/cqyx.php?id=dsjc
+魅力足球, http://103.242.14.150/cqyx.php?id=mlxq
+动漫秀场, http://103.242.14.150/cqyx.php?id=dmxc
+游戏风云, http://103.242.14.150/cqyx.php?id=yxfy
+生活时尚, http://103.242.14.150/cqyx.php?id=shss
+法治天地, http://103.242.14.150/cqyx.php?id=fztd
+金色学堂, http://103.242.14.150/cqyx.php?id=jsxt
 东方财经,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41135/2300.m3u8
 东方财经,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43044/1300.m3u8
 东方财经,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43044/2300.m3u8
@@ -1577,6 +1371,176 @@ CGTN纪录,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/ch
 山西高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?fbl=$DFXL流畅
 
 四川,#genre#
+四川文化,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
+四川经济,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
+四川新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
+四川影视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
+四川妇女,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
+四川科教,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
+四川乡村,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
+峨嵋电影,http://58.216.99.148:80/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+成都新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8
+成都经济,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8
+成都都市,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8
+成都影视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8
+成都公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8
+成都高新区,http://58.216.99.148:80/live2.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8
+成都购物,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mrgw_4000.m3u8
+阿坝州TV,http://58.216.99.148:80/live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8
+阿坝州藏语,http://58.216.99.148:80/live2.rxip.sc96655.com/live/wypdgqH265_4000.m3u8
+安居综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ajxw_2000.m3u8
+安岳综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ayxwzh_4000.m3u8
+安州综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/azgq_2000.m3u8
+巴中文旅,http://58.216.99.148:80/live2.rxip.sc96655.com/live/bzetH264_2000.m3u8
+巴中综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/bzytH265_4000.m3u8
+巴州电视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/bzxw_4000.m3u8
+宝兴综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/bxdst_2000.m3u8
+北川综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/bcxwHD_2000.m3u8
+苍溪综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8
+长宁综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/znzh_2000.m3u8
+朝天综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ctxwzh_2000.m3u8
+崇州,http://58.216.99.148:80/live2.rxip.sc96655.com/live/czyt_4000.m3u8
+船山综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/csxw_2000.m3u8
+达川新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dcxwzh_2000.m3u8
+达州导视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dzds_2000.m3u8
+达州公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dzgg_2000.m3u8
+达州通川,http://58.216.99.148:80/live2.rxip.sc96655.com/live/tcq_2000.m3u8
+达州新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dzxwzh_2000.m3u8
+大邑电视台,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dyytH265_4000.m3u8
+大英新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8
+丹棱综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8
+德昌,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dcxw_4000.m3u8
+东兴综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dxxwzh_4000.m3u8
+都江堰,http://58.216.99.148:80/live2.rxip.sc96655.com/live/djyzh_4000.m3u8
+峨边,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ebdst_2000.m3u8
+峨眉综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/emsxw_2000.m3u8
+恩阳新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/eyxw_2000.m3u8
+涪城综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/fcgq_2000.m3u8
+富顺综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/fszh_2000.m3u8
+甘洛,http://58.216.99.148:80/live2.rxip.sc96655.com/live/glt_2000.m3u8
+甘孜综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gzxwzh_2000.m3u8
+高县-1,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxt_2000.m3u8
+古蔺新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8
+广安公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gagg_2000.m3u8
+广安区,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gaqxw_2000.m3u8
+广安新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gaxwzh_2000.m3u8
+广汉综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ghxwzh_2000.m3u8
+广元文化,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gyggH265_4000.m3u8
+广元综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gyzhH265_4000.m3u8
+汉源综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hyxwzh_2000.m3u8
+合江新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hjxw_2000.m3u8
+黑水,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hsxwzhpdH264_2000.m3u8
+洪雅新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hyzh_2000.m3u8
+华蓥综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hyxw_2000.m3u8
+会理新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hlyt_4000.m3u8
+夹江新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jjxw_2000.m3u8
+简阳新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jyxwzh_2000.m3u8
+剑阁综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8
+江安,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jat_2000.m3u8
+江油综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jyxwHD_2000.m3u8
+金口河综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jkhdst_2000.m3u8
+金牛,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jnyx_2000.m3u8
+金堂,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jtzhpd_2000.m3u8
+开江新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/kjxwzh_2000.m3u8
+乐山公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lsggpd_4000.m3u8
+乐山新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lsxwzh_4000.m3u8
+利州综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lzxwzh_2000.m3u8
+凉山新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8
+凉山彝语,http://58.216.99.148:80/live2.rxip.sc96655.com/live/yyzh_2000.m3u8
+邻水,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lsxw_2000.m3u8
+龙泉综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lqxw_2000.m3u8
+隆昌综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lcxw_2000.m3u8
+芦山综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lszh_2000.m3u8
+罗江,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ljxwzh_2000.m3u8
+马边综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mbxwzh_2000.m3u8
+马尔康,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8
+眉山综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/msxwzhgq_2000.m3u8
+米易综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/myxwzh_2000.m3u8
+绵阳科技,http://58.216.99.148:80/live2.rxip.sc96655.com/live/myetH265_4000.m3u8
+绵阳新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/myytH265_4000.m3u8
+绵竹,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mzxwzh_2000.m3u8
+冕宁综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mnxw_2000.m3u8
+名山,http://58.216.99.148:80/live2.rxip.sc96655.com/live/msdstH265_2000.m3u8
+木里,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mltHD_4000.m3u8
+纳溪1,http://58.216.99.148:80/live2.rxip.sc96655.com/live/nxxw_2000.m3u8
+南部综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/nbxw_2000.m3u8
+南充综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ncxwzh_2000.m3u8
+南江,http://58.216.99.148:80/live2.rxip.sc96655.com/live/njxw_2000.m3u8
+南溪综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/nxt_2000.m3u8
+内江公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/njgg_4000.m3u8
+内江综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/njzh_4000.m3u8
+宁南综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/nnt_4000.m3u8
+攀钢新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pgxwzh_2000.m3u8
+攀枝花新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pzhytH265_4000.m3u8
+彭山综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pszh_2000.m3u8
+彭州综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pzxwzh_2000.m3u8
+蓬安综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pazh_2000.m3u8
+蓬溪新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pxxw_2000.m3u8
+平昌综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pcxw_2000.m3u8
+平武综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pwgq_4000.m3u8
+屏山综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/psxwzh_2000.m3u8
+蒲江综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pjxw_4000.m3u8
+普格综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pgt_4000.m3u8
+前锋,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qfxw_2000.m3u8
+青白江综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8
+青川综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8
+青神综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qszh_2000.m3u8
+渠县新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8
+仁和新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8
+荣县综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/rxzh_2000.m3u8
+三台TV,http://58.216.99.148:80/live2.rxip.sc96655.com/live/stxwHD_2000.m3u8
+射洪综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/shzhH264_2000.m3u8
+石棉,http://58.216.99.148:80/live2.rxip.sc96655.com/live/smxwzh_2000.m3u8
+什邡新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sfx_2000.m3u8
+双流综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/slgq_2000.m3u8
+松潘,http://58.216.99.148:80/live2.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8
+遂宁综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8
+天全新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/tqzh_2000.m3u8
+通川区,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8
+通江综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/tjxwH265_4000.m3u8
+万源,http://58.216.99.148:80/live2.rxip.sc96655.com/live/wyxwzh_2000.m3u8
+旺苍新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8
+温江综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/wjytH264_2000.m3u8
+武胜综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/wsxw_2000.m3u8
+五通桥,http://58.216.99.148:80/live2.rxip.sc96655.com/live/wtqxwzh_2000.m3u8
+西昌,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xctHD_2000.m3u8
+西充综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xczh_2000.m3u8
+喜德,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xdxw_4000.m3u8
+新都综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8
+新津,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xjzh_4000.m3u8
+兴文台,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xwt_2000.m3u8
+叙永,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xyxw_2000.m3u8
+叙州新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ybx_2000.m3u8
+宣汉综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xhxwzh_2000.m3u8
+雅安公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/yagg_2000.m3u8
+雅安新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/yazh_2000.m3u8
+雅安雨城,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ycpd_2000.m3u8
+盐边电视台,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ybtgq_2000.m3u8
+盐亭1,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ytzh_2000.m3u8
+雁江,http://58.216.99.148:80/live2.rxip.sc96655.com/live/yjxw_2000.m3u8
+仪陇新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ylxw_2000.m3u8
+宜宾公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ybetH264_2000.m3u8
+宜宾新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ybytH264_2000.m3u8
+营山,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ysxw_2000.m3u8
+越西综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/yxt_4000.m3u8
+岳池,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ycxw_2000.m3u8
+昭化综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zhxwzh_2000.m3u8
+中江新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zjxwzh_2000.m3u8
+资阳新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zyxwzh_2000.m3u8
+资中综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zzzh_2000.m3u8
+自贡文化,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zggg_4000.m3u8
+自贡综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zgxw_4000.m3u8
+郫县新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pxds1_2000.m3u8
+荥经,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xjdst_2000.m3u8
+阆中综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lzxw_2000.m3u8
+沐川综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mcxw_2000.m3u8
+泸定综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ldxw_4000.m3u8
+泸县综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lxxwzh_2000.m3u8
+泸州公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lzgg_2000.m3u8
+珙县新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxzh_2000.m3u8
+梓潼综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ztgq_2000.m3u8
+犍为新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qwxwzh_2000.m3u8
+筠连,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ylyt_2000.m3u8
 四川汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?fbl=$DZYD超清
 四川松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?fbl=$ABDX超清
 四川万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?fbl=$CDGD超清
@@ -1966,6 +1930,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
 
 北京,#genre#
+
 北京纪实,http://116.204.70.255/Bt.php?id=bjjskj
 卡酷少儿,http://116.204.70.255/Bt.php?id=bjkk
 北京房山,http://live.funhillrm.com/5/sd/live.m3u8?fbl=$QWDX高清
@@ -1977,6 +1942,17 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 北京文艺,https://udpxy.carlzeng.top:3/rtp/239.3.1.242:8000?fbl=$LZJY标清0
 北京新闻,https://udpxy.carlzeng.top:3/rtp/239.3.1.159:8000?fbl=$LZJY标清0
 北京影视,https://udpxy.carlzeng.top:3/rtp/239.3.1.158:8000?fbl=$LZJY标清0
+北京纪实, http://103.242.14.150/cqyx.php?id=bjjskj
+北京卡酷, http://103.242.14.150/cqyx.php?id=bjkk
+中华特产, http://103.242.14.150/cqyx.php?id=zhtc
+生态环境, http://103.242.14.150/cqyx.php?id=sthj
+四海钓鱼, http://103.242.14.150/cqyx.php?id=shdy
+车迷频道, http://103.242.14.150/cqyx.php?id=cmpd
+百姓健康, http://103.242.14.150/cqyx.php?id=bxjk
+环球奇观, http://103.242.14.150/cqyx.php?id=hqqg
+环球旅游, http://103.242.14.150/cqyx.php?id=hqly
+优优宝贝, http://103.242.14.150/cqyx.php?id=yybb
+聚鲨环球精选, http://103.242.14.150/cqyx.php?id=jshwjx
 北京纪实,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11001/2300.m3u8
 北京纪实,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel22030/2300.m3u8
 卡酷少儿,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11003/1300.m3u8
@@ -1991,23 +1967,23 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 证券服务,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel62001/2300.m3u8
 
 重庆,#genre#
-重庆新闻,http://tv.suchv.com/cqyx.php?id=cqxw
-重庆科教,http://tv.suchv.com/cqyx.php?id=cqkj
-重庆影视,http://tv.suchv.com/cqyx.php?id=cqys
-重庆文体娱乐,http://tv.suchv.com/cqyx.php?id=cqwtyl
-重庆少儿,http://tv.suchv.com/cqyx.php?id=cqse
-重庆时尚生活,http://tv.suchv.com/cqyx.php?id=cqsssh
-重庆新农村,http://tv.suchv.com/cqyx.php?id=cqxnc
-重庆社会与法,http://tv.suchv.com/cqyx.php?id=cqshyf
-重庆移动,http://tv.suchv.com/cqyx.php?id=cqyd
-重庆汽摩,http://tv.suchv.com/cqyx.php?id=cqqm
-重广融媒,http://tv.suchv.com/cqyx.php?id=cgrm
-爱看导视,http://tv.suchv.com/cqyx.php?id=akds
-合川综合,http://tv.suchv.com/cqyx.php?id=hczh
-长寿综合,http://tv.suchv.com/cqyx.php?id=cszh
-酉阳综合,http://tv.suchv.com/cqyx.php?id=yyzh
-云阳综合,http://tv.suchv.com/cqyx.php?id=yunyzh
-铜梁综合,http://tv.suchv.com/cqyx.php?id=tlzh
+重庆新闻, http://103.242.14.150/cqyx.php?id=cqxw
+重庆科教, http://103.242.14.150/cqyx.php?id=cqkj
+重庆影视, http://103.242.14.150/cqyx.php?id=cqys
+重庆文体娱乐, http://103.242.14.150/cqyx.php?id=cqwtyl
+重庆少儿, http://103.242.14.150/cqyx.php?id=cqse
+重庆时尚生活, http://103.242.14.150/cqyx.php?id=cqsssh
+重庆新农村, http://103.242.14.150/cqyx.php?id=cqxnc
+重庆社会与法, http://103.242.14.150/cqyx.php?id=cqshyf
+重庆移动, http://103.242.14.150/cqyx.php?id=cqyd
+重庆汽摩, http://103.242.14.150/cqyx.php?id=cqqm
+重广融媒, http://103.242.14.150/cqyx.php?id=cgrm
+爱看导视, http://103.242.14.150/cqyx.php?id=akds
+合川综合, http://103.242.14.150/cqyx.php?id=hczh
+长寿综合, http://103.242.14.150/cqyx.php?id=cszh
+酉阳综合, http://103.242.14.150/cqyx.php?id=yyzh
+云阳综合, http://103.242.14.150/cqyx.php?id=yunyzh
+铜梁综合, http://103.242.14.150/cqyx.php?id=tlzh
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 永川综合,http://qxlmlive.cbg.cn:1935/applive/yctv01/chunklist.m3u8?zzhongqd
 彭水新闻综合,http://qxlmlive.cbg.cn:1935/applive/pstv1/playlist.m3u8?zzhongqd
