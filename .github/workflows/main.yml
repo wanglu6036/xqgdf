@@ -8,8 +8,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 11,23 * * *'  # 每天10点和22点运行爬取脚本
-    - cron: '35 11,23 * * *' # 每天10点30和22点30运行测速脚本
+    - cron: '55 11,23 * * *'  # 每天10点和22点运行爬取脚本
+    - cron: '59 11,23 * * *' # 每天10点30和22点30运行测速脚本
 
 jobs:
   build:
@@ -48,11 +48,11 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Run script.py
-      if: github.event.schedule == '30 11,23 * * *'
+      if: github.event.schedule == '55 11,23 * * *'
       run: python script.py
 
     - name: Run cs.py
-      if: github.event.schedule == '35 11,23 * * *'
+      if: github.event.schedule == '59 11,23 * * *'
       run: |
         sudo apt-get update
         sudo apt-get install -y ffmpeg
