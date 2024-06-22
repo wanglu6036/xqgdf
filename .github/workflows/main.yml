@@ -8,8 +8,10 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 11,23 * * *'  # 每天10点和22点运行爬取脚本
-    - cron: '35 11,23 * * *' # 每天10点30和22点30运行测速脚本
+    - cron: '10 0 * * *'    # 每天00:00 UTC时间运行爬取脚本（北京时间8:00）
+    - cron: '10 12 * * *'   # 每天12:01 UTC时间运行爬取脚本（北京时间20:01）
+    - cron: '15 0 * * *'    # 每天00:05 UTC时间运行测速脚本（北京时间8:05）
+    - cron: '15 12 * * *'   # 每天12:05 UTC时间运行测速脚本（北京时间20:05）
 
 jobs:
   build:
@@ -48,11 +50,11 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Run script.py
-      if: github.event.schedule == '30 11,23 * * *'
+      if: github.event.schedule == '10 0 * * *' || github.event.schedule == '10 12 * * *'
       run: python script.py
 
     - name: Run cs.py
-      if: github.event.schedule == '35 11,23 * * *'
+      if: github.event.schedule == '15 0 * * *' || github.event.schedule == '15 12 * * *'
       run: |
         sudo apt-get update
         sudo apt-get install -y ffmpeg
@@ -66,6 +68,7 @@ jobs:
         git config --global user.name 'wanglu6036'
         git config --global user.email '376671120@qq.com'
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-        git add qgdf.txt iptv.txt
-        git diff-index --quiet HEAD || git commit -m 'Update qgdf.txt and iptv.txt'
+        git pull origin main  # 拉取最新的更改
+        git add iptv.txt qgdf.txt
+        git diff-index --quiet HEAD || git commit -m 'Update iptv.txt and qgdf.txt'
         git push origin main
