@@ -93,7 +93,7 @@ def process_domain(domain, cctv_links, all_links):
 
     speed = download_m3u8(selected_link)
     width, height, frame_rate = get_ffprobe_info(selected_link)
-    if speed > 200:
+    if speed > 1:
         print(f"频道链接 {selected_link} 在域 {domain} 下的下载速度为：{speed:.2f} KB/s")
         print(f"分辨率为：{width}x{height}，帧率为：{frame_rate}")
         genre = "genre"  # 替换为实际的类型信息
