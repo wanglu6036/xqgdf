@@ -5,7 +5,8 @@ from itertools import groupby
 
 # 获取RAW文件内容
 def fetch_data():
-    url = "https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_results.txt"
+    # url = "https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_results.txt"
+    url="https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt"
     res = requests.get(url)
     return res.text
 
