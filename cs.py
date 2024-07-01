@@ -412,12 +412,15 @@ cctv5+体育赛事,http://119.163.199.98:9901/tsfile/live/0016_2.m3u8?key=txiptv
 山东体育,http://119.163.199.98:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://119.163.199.98:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 """
-
-
+# 获取RAW文件内容
+url = "https://raw.githubusercontent.com/mlzlzj/iptv/main/iptv_list.txt"
+res = requests.get(url)
+a="以下央视卫视可切换线路,#genre#\n"+"双击ok键切换,https://cdn2.yzzy-online.com/20220326/2242_a8d593bc/index.m3u8\n" + res.text
 
 # 输出结果到当前目录下的qgdf.txt文件
 with open(output_file_path, "w", encoding="utf-8") as output_file:
     output_file.write(intro_content + '\n')
+    output_file.write(a + '\n')
     for line in result:
         output_file.write(line + '\n')
 
