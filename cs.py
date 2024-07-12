@@ -1237,7 +1237,7 @@ BTV,http://175.18.189.238:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&aut
 
 """
 # 获取RAW文件内容
-url = "https://raw.githubusercontent.com/mlzlzj/iptv/main/iptv.txt"
+url = "https://raw.githubusercontent.com/mlzlzj/iptv/main/iptv_list.txt"
 res = requests.get(url)
 a="以下央视卫视可切换线路,#genre#\n"+"双击ok键切换,https://cdn2.yzzy-online.com/20220326/2242_a8d593bc/index.m3u8\n" + res.text
 
