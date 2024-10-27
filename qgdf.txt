@@ -1690,6 +1690,6 @@ BTV高清,http://175.18.189.238:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 湖南频道,#genre#
 
 更新时间,#genre#
-2024-10-26,url
-18:28:57,url
+2024-10-27,url
+06:30:02,url
 
