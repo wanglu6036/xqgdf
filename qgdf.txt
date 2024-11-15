@@ -1691,30 +1691,13 @@ BTV高清,http://175.18.189.238:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 
 更新时间,#genre#
 2024-11-14,url
-02:43:22,url
+21:59:13,url
 
-秒换台205.75,#genre#
-CCTV5,http://121.33.239.242:9901/tsfile/live/0005_1.m3u8
-CCTV12,http://121.33.239.242:9901/tsfile/live/0012_1.m3u8
-江苏卫视,http://121.33.239.242:9901/tsfile/live/0135_2.m3u8
-吉林卫视,http://121.33.239.242:9901/tsfile/live/0017_1.m3u8
-辽宁卫视,http://121.33.239.242:9901/tsfile/live/0018_1.m3u8
-山西卫视,http://121.33.239.242:9901/tsfile/live/0118_1.m3u8
-河北卫视,http://121.33.239.242:9901/tsfile/live/0117_1.m3u8
-广西卫视,http://121.33.239.242:9901/tsfile/live/0113_1.m3u8
-深圳卫视,http://121.33.239.242:9901/tsfile/live/0126_1.m3u8
-四川卫视,http://121.33.239.242:9901/tsfile/live/0123_1.m3u8
-青海卫视,http://121.33.239.242:9901/tsfile/live/0140_1.m3u8
-兵团卫视,http://121.33.239.242:9901/tsfile/live/1000_1.m3u8
-甘肃卫视,http://121.33.239.242:9901/tsfile/live/0141_1.m3u8
-佳嘉卡通,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8
-广东少儿,http://121.33.239.242:9901/tsfile/live/0130_2.m3u8
-广东影视,http://121.33.239.242:9901/tsfile/live/1002_1.m3u8
-广东新闻,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
-广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8
-广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8
-金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8
-秒换台505.54,#genre#
+秒换台572.72,#genre#
+CCTV15,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8
+广西旅游,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
+广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
+秒换台513.45,#genre#
 CCTV1,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8
 CCTV2,http://42.48.50.232:9002/tsfile/live/0002_1.m3u8
 CCTV5,http://42.48.50.232:9002/tsfile/live/0005_1.m3u8
@@ -1750,7 +1733,7 @@ CGTN,http://42.48.50.232:9002/tsfile/live/1001_1.m3u8
 卡酷少儿,http://42.48.50.232:9002/tsfile/live/0124_1.m3u8
 湖南经视,http://42.48.50.232:9002/tsfile/live/1004_1.m3u8
 湖南都市,http://42.48.50.232:9002/tsfile/live/0127_1.m3u8
-秒换台443.18,#genre#
+秒换台646.47,#genre#
 CCTV3,http://42.49.148.247:9901/tsfile/live/0003_1.m3u8
 CCTV6,http://42.49.148.247:9901/tsfile/live/0006_1.m3u8
 CCTV8,http://42.49.148.247:9901/tsfile/live/0008_1.m3u8
