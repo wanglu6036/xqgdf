@@ -1684,7 +1684,7 @@ BTV高清,http://175.18.189.238:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 以下央视卫视可切换线路,#genre#
 双击ok键切换,https://cdn2.yzzy-online.com/20220326/2242_a8d593bc/index.m3u8
 更新时间,#genre#
-2025-06-30 02:11:23,url
+2025-06-30 08:42:34,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
