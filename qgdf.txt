@@ -1684,7 +1684,7 @@ BTV高清,http://175.18.189.238:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 以下央视卫视可切换线路,#genre#
 双击ok键切换,https://cdn2.yzzy-online.com/20220326/2242_a8d593bc/index.m3u8
 更新时间,#genre#
-2025-07-09 02:08:18,url
+2025-07-09 08:42:01,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -1892,7 +1892,3 @@ CCTV16 4k(试看),http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000
 CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?stbid=
 活动直播2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000100549/main.m3u8?stbid=
 
-秒换台1139.65,#genre#
-CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8
-CCTV2,http://222.134.245.16:9901/tsfile/live/0002_1.m3u8
-CCTV10,http://222.134.245.16:9901/tsfile/live/0010_1.m3u8
