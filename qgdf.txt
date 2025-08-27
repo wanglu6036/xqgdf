@@ -2017,3 +2017,11 @@ CCTV16 4k(试看),http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000
 CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?stbid=
 活动直播2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000100549/main.m3u8?stbid=
 
+秒换台175.57,#genre#
+CCTV3,http://113.25.252.226:9901/tsfile/live/0003_1.m3u8
+CCTV7,http://113.25.252.226:9901/tsfile/live/0007_1.m3u8
+广东卫视,http://113.25.252.226:9901/tsfile/live/0125_1.m3u8
+东南卫视,http://113.25.252.226:9901/tsfile/live/0137_1.m3u8
+山东卫视,http://113.25.252.226:9901/tsfile/live/0131_1.m3u8
+深圳卫视,http://113.25.252.226:9901/tsfile/live/0126_1.m3u8
+山西公共,http://113.25.252.226:9901/tsfile/live/0109_1.m3u8
