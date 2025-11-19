@@ -2017,7 +2017,7 @@ CCTV16 4k(试看),http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000
 CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?stbid=
 活动直播2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000100549/main.m3u8?stbid=
 
-秒换台630.07,#genre#
+秒换台659.31,#genre#
 CCTV1,http://220.170.241.204:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://220.170.241.204:9901/tsfile/live/0002_1.m3u8
 CCTV5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
