@@ -2017,7 +2017,7 @@ CCTV16 4k(试看),http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000
 CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?stbid=
 活动直播2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000100549/main.m3u8?stbid=
 
-秒换台1011.26,#genre#
+秒换台1363.44,#genre#
 CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8
@@ -2054,3 +2054,12 @@ CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
 宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
 上海卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8
 吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8
+秒换台636.30,#genre#
+CCTV1,http://58.17.116.69:9903/tsfile/live/0001_1.m3u8
+CCTV2,http://58.17.116.69:9903/tsfile/live/0002_1.m3u8
+CCTV4,http://58.17.116.69:9903/tsfile/live/0004_1.m3u8
+CCTV7,http://58.17.116.69:9903/tsfile/live/0007_1.m3u8
+CCTV10,http://58.17.116.69:9903/tsfile/live/0010_1.m3u8
+CCTV13,http://58.17.116.69:9903/tsfile/live/0013_1.m3u8
+安徽卫视,http://58.17.116.69:9903/tsfile/live/0130_1.m3u8
+江西卫视,http://58.17.116.69:9903/tsfile/live/0138_1.m3u8
